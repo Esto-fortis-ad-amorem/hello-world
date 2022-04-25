@@ -1,0 +1,10 @@
+import turtle as t
+t.pencolor("red")
+t.fillcolor("yellow")
+t.begin_fill()
+while True:
+  t.forwaard(200)
+  t.right(144)
+  if abs(t.pos())<1
+      break
+t.end_fill()
